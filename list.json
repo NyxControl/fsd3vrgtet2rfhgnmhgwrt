@@ -28,7 +28,8 @@
         "tdsrs",
         "IW-TI",
         "DS",
-        "FX"
+        "FX",
+        "busy"
     ],
     "ally_player": [
         "."
