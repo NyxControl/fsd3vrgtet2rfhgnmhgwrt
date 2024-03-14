@@ -30,7 +30,9 @@
         "IW-TI",
         "DS",
         "FX",
-        "busy"
+        "busy",
+        "KOA",
+        "K0A"
     ],
     "ally_player": [
         "."
