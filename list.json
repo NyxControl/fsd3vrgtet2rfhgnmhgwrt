@@ -11,7 +11,9 @@
         "Braindead",
         "Nuur",
         "fff",
-        "Mr_Dream"
+        "Mr_Dream",
+        "Pass",
+        "Poor"
     ],
     "enemy_clan": [
         "99",
@@ -32,7 +34,8 @@
         "FX",
         "busy",
         "KOA",
-        "K0A"
+        "K0A",
+        "NV"
     ],
     "ally_player": [
         "."
